@@ -39,8 +39,6 @@ if($_GET['o'] == 'add') {
 	?>	
 </h4>
 
-
-
 <div class="panel panel-default">
 	<div class="panel-heading">
 
